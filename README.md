@@ -136,7 +136,7 @@ def lightpower(request):
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](<Screenshot (29).png>)
+![alt text](<Screenshot (30).png>)
 
 ## HOMEPAGE:
 
